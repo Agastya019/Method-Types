@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Java program for with 'Parameter' and with 'Return-type'
+
 public class Method4 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
